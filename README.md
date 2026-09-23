@@ -118,9 +118,11 @@ The detailed flow, showing every route a question can take through the workflow,
 ## Evidence
 
 ![Answer with a numbered citation on every point](images/ui-answer-with-source.png)
+
 *An answered question: every point carries a numbered citation to the source text it came from.*
 
 ![Review queue showing a held answer with its flags, draft and sources](images/ui-review-queue.png)
+
 *A question held for review. The reviewer sees why it was flagged, the draft and its sources.*
 
 Evaluation results, traces and the MCP interaction are in the linked documents below.

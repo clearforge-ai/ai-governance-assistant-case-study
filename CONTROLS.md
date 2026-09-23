@@ -85,9 +85,11 @@ The borderline-retrieval rule never fired: the lowest top score on an answered q
 **The asker never sees an unapproved draft.** Showing the draft with approve and reject buttons underneath would have been quicker to build, and would have made the control decorative. So the interface has two views:
 
 ![The asker's view: the answer is held for review, with the reasons in plain English and no draft shown](images/ui-sent-for-review.png)
+
 *The asker sees that the answer is held, and why, in plain English. No draft appears.*
 
 ![The reviewer's view: the reasons, the full draft and its sources, a note field, and approve or reject](images/ui-review-queue.png)
+
 *The reviewer sees the reasons, the full draft and the same checkable sources, and records a note with the decision.*
 
 Approve or reject resumes the paused run. No new answer is generated, so the decision applies to exactly the draft the reviewer read.
